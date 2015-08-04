@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite id="" name="" >
+<node_order><![CDATA[]]></node_order>
+<details><![CDATA[]]></details> 
+<testsuite id="635" name="unint-test" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[<p>
+	For unit test.</p>
+]]></details> 
+<testsuite id="636" name="User-management-sub" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[<p>
+	User management subsystem.</p>
+]]></details> 
+<testsuite id="637" name="BaseInfo" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[BaseInfo]]></details> 
+<testsuite id="638" name="login" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[<p>
+	login.</p>
+]]></details> 
+
+<testcase internalid="639" name="login">
+	<node_order><![CDATA[1]]></node_order>
+	<externalid><![CDATA[1937]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Confirmation of the initial menu screen.</p>
+]]></summary>
+	<preconditions><![CDATA[<p>
+	That the environment setting has been completed</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[1]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>
+	Open http://localhost/app</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>
+	The initial menu screen is displayed.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>
+	USER ID:user01</p>
+<p>
+	PASSWORD:pass01 Click OK button</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>
+	Initial screen displayed.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testsuite><testsuite id="643" name="password change" >
+<node_order><![CDATA[2]]></node_order>
+<details><![CDATA[<p>
+	Confirm password change function.</p>
+]]></details> 
+</testsuite></testsuite></testsuite></testsuite></testsuite>
