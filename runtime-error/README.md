@@ -18,15 +18,13 @@ Procedure is as follows:
 
 
 Test link project.
-![Test Link Project Screenshot](https://github.com/takase1024/TestLink--ImportExcelMacroIssue/runtime-error/TestLink-project.png)
+![Test Link Project Screenshot](https://github.com/takase1024/TestLink--ImportExcelMacroIssue/blob/master/runtime-error/TestLink-project.png)
 
 Error dialog.
-![Test Link Project Screenshot](https://github.com/takase1024/TestLink--ImportExcelMacroIssue/runtime-error/runtime-error.png)
+![Test Link Project Screenshot](https://github.com/takase1024/TestLink--ImportExcelMacroIssue/blob/master/runtime-error/runtime-error.png)
 
 Debug screen.
-![Test Link Project Screenshot](https://github.com/takase1024/TestLink--ImportExcelMacroIssue/runtime-error/debug-screen.png)
+![Test Link Project Screenshot](https://github.com/takase1024/TestLink--ImportExcelMacroIssue/blob/master/runtime-error/debug-screen.png)
 
-
-![JRunalayzer Screenshot 2](https://pfichtner.github.io/jrunalayzer/screenshots/jrunalayzer2.png)
 
 
